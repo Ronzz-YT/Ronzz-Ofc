@@ -15,7 +15,7 @@
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ronzz-Ofc&repo=ZiahBotzV2&theme=vision-friendly-dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ronzz-Ofc&repo=VelzzyBOT-MD&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ronzz-Ofc&repo=Ronzz-Ofc&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ronzz-Ofc&repo=Ronzz-Ofc&theme=nightowl)
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
